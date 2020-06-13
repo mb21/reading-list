@@ -1,9 +1,9 @@
-## Web development
+## Web development intro
 
 - [Webdesign Intro videos](http://www.dontfeartheinternet.com) (watch from bottom to top)
-- tools: [MDN](https://developer.mozilla.org), [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools), [Atom editor](http://atom.io) and [canIuse.com](http://caniuse.com)
+- tools: [MDN](https://developer.mozilla.org), [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools), [VSCode editor](https://code.visualstudio.com/) and [canIuse.com](http://caniuse.com)
 - [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
-- CSS naming: use something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/)
+- CSS naming: use something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/), or [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
 - [Resilient Web Design](https://resilientwebdesign.com): about the medium web.
 - JavaScript
     - interactive: [programming intro at Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
