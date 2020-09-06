@@ -18,6 +18,7 @@
 - [canvas in vs content out](http://alistapart.com/article/frameworks)
 - [Why You Should Avoid Using the Hamburger Menu](http://jamesarcher.me/the-hamburger-menu/)
 - [Accessibility](http://a11yproject.com)
+- [Test accessibility with Voice Over](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-voiceover-os.html)
 - [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
 - [Medium: company blog](https://medium.com/the-story)
 - [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570)

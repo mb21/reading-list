@@ -1,8 +1,10 @@
-## Tech Books
+## Books
 
-- [Thinking in Systems](https://wtf.tw/ref/meadows.pdf) by Donella Meadows (1993)
+- [Thinking in Systems: A Primer](https://wtf.tw/ref/meadows.pdf) by Donella H. “Dana” Meadows (1993)
 
-## Space
+  A _System_ is something that’s greater than the sum of its parts, usually contains feedback loops and often behaves unintuitively. The following can all be understood as systems: a room with a thermostat, a bathtub with an in- and outlet, ecosystems in biology, population dynamics, depletion of non-renewable resources, organizations (e.g. companies), economies, and many more.
+
+  > It is remarkable that Dana is able to explain with such clarity such systems concepts of stocks, flows, feedback, time delays, resilience, bounded rationality [, leverage points], and system boundaries and to illustrate each one with multiple informative examples. – Bill Moomaw
 
 - _Asteroid Mining 101: Wealth for the New Space Economy_, John S. Lewis (2014)
 
