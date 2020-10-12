@@ -1,9 +1,13 @@
 ## Web development intro
 
 - [Webdesign Intro videos](http://www.dontfeartheinternet.com) (watch from bottom to top)
-- tools: [MDN](https://developer.mozilla.org), [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools), [VSCode editor](https://code.visualstudio.com/) and [canIuse.com](http://caniuse.com)
-- [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
-- CSS naming: use something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/), or [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+- tools: [MDN](https://developer.mozilla.org), [CSS-Tricks](https://css-tricks.com
+), [canIuse.com](http://caniuse.com)
+- [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) and [VSCode editor](https://code.visualstudio.com/) 
+- CSS
+  - [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
+  - CSS naming: use something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/), or [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+  - [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - [Resilient Web Design](https://resilientwebdesign.com): about the medium web.
 - JavaScript
     - interactive: [programming intro at Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
@@ -11,24 +15,31 @@
 
 ### More articles
 
-- [A Dao of Web Design](http://alistapart.com/article/dao), best article about the web ever.
-- [Article that invented Responsive Web Design](http://alistapart.com/article/responsive-web-design)
-- [Style Guide/Pattern Library Intro](http://alistapart.com/article/creating-style-guides)
-- [Surveying the Big Screen](http://alistapart.com/article/surveying-the-big-screen)
-- [canvas in vs content out](http://alistapart.com/article/frameworks)
-- [Why You Should Avoid Using the Hamburger Menu](http://jamesarcher.me/the-hamburger-menu/)
-- [Accessibility](http://a11yproject.com)
-- [Test accessibility with Voice Over](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-voiceover-os.html)
+- A List Apart
+  - [A Dao of Web Design](http://alistapart.com/article/dao), best article about the web ever.
+  - [Article that invented Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+  - [Style Guide/Pattern Library Intro](http://alistapart.com/article/creating-style-guides)
+  - [Surveying the Big Screen](http://alistapart.com/article/surveying-the-big-screen)
+  - [canvas in vs content out](http://alistapart.com/article/frameworks)
+  - [The Pain With No Name – Information Architecture](http://alistapart.com/article/pain-with-no-name)
+- GUI/UX
+  - [Bret Victor](http://worrydream.com)
+  - [Why You Should Avoid Using the Hamburger Menu](http://jamesarcher.me/the-hamburger-menu/)
+  - [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570)
+- Accessibility
+  - [Accessibility](http://a11yproject.com)
+  - [Test accessibility with Voice Over](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-voiceover-os.html)
 - [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
-- [Medium: company blog](https://medium.com/the-story)
-- [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570)
-- [Bret Victor](http://worrydream.com)
-- [The Pain With No Name – Information Architecture](http://alistapart.com/article/pain-with-no-name)
 - [iA blog](https://ia.net/know-how), e.g. [Multichannel Text Processing](https://ia.net/know-how/multichannel-text-processing)
 - Websites:
     - [motherfuckingwebsite.com](http://motherfuckingwebsite.com/)
     - [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com)
     - [Brutalist Websites](http://brutalistwebsites.com)
+- TypeScript
+  - [Take control of unexpected data at runtime with TypeScript](https://blog.logrocket.com/using-typescript-to-stop-unexpected-data-from-breaking-your-app/)
+- React
+  - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
+
 
 ### Static Site Generation
 
