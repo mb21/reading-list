@@ -1,5 +1,7 @@
 ## Tech Books
 
+- [Designing Data-Intensive Applications](https://dataintensive.net)
+
 - [Thinking in Systems: A Primer](https://wtf.tw/ref/meadows.pdf) by Donella H. “Dana” Meadows (1993)
 
   A _System_ is something that’s greater than the sum of its parts, usually contains feedback loops and often behaves unintuitively. The following can all be understood as systems: a room with a thermostat, a bathtub with an in- and outlet, ecosystems in biology, population dynamics, depletion of non-renewable resources, organizations (e.g. companies), economies, and many more.
