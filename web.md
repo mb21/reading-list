@@ -36,6 +36,7 @@
     - [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com)
     - [Brutalist Websites](http://brutalistwebsites.com)
 - TypeScript
+  - [Error handling](https://blog.logrocket.com/pattern-matching-and-type-safety-in-typescript-1da1231a2e34/)
   - [Take control of unexpected data at runtime with TypeScript](https://blog.logrocket.com/using-typescript-to-stop-unexpected-data-from-breaking-your-app/)
 - React
   - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
