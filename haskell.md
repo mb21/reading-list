@@ -11,3 +11,7 @@
 ### Videos
 
 - [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
+
+## General programming
+
+- [Are we really engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
