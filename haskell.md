@@ -1,7 +1,7 @@
 ## Haskell and Functional Programming
 
 - [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) (how to write cleaner and simpler software using functional thinking, demonstrated in JavaScript)
-- [Learn You a Haskell](http://learnyouahaskell.com)
+- [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) or [Learn You a Haskell](http://learnyouahaskell.com)
 - gotchas in practice: [What I wish I knew when learning Haskell](http://dev.stephendiehl.com/hask/)
 - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 - first half of [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
