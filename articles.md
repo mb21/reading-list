@@ -13,19 +13,19 @@
 - [Steam-powered spacecraft could jump-start asteroid exploration](https://www.technologyreview.com/s/612999/steam-powered-spacecraft-could-jump-start-asteroid-exploration/) 
 
   > When the idea of asteroid mining was first booming, many of the firms involved talked about using water-based fuels to power their spacecraft. The idea was that ice was so abundant on asteroids that it could be broken down into hydrogen and oxygen to make a more efficient fuel.
-- [Google’s Waymo risks repeating Silicon Valley’s most famous blunder | Ars T](https://arstechnica.com/cars/2019/02/googles-waymo-risks-repeating-silicon-valleys-most-famous-blunder/) 
+- [Google’s Waymo risks repeating Silicon Valley’s most famous blunder | Ars Technica](https://arstechnica.com/cars/2019/02/googles-waymo-risks-repeating-silicon-valleys-most-famous-blunder/) 
 
   > Everyone in Silicon Valley knows the story of Xerox inventing the modern personal computer in the 1970s and then failing to commercialize it effectively.
 - [Laws of Tech: Commoditize Your Complement - Gwern.net](https://www.gwern.net/Complement) 
 
-  > Joel Spolsky in 2002 identified a major pattern in technology business & economics: the pattern of “commoditizing your complement”, an alternative to vertical integration, where companies seek to secure a chokepoint or quasi-monopoly in products composed of many necessary & sufficient layers by
+  > Joel Spolsky in 2002 identified a major pattern in technology business & economics: the pattern of “commoditizing your complement”, an alternative to vertical integration, where companies seek to secure a chokepoint or quasi-monopoly in products composed of many necessary & sufficient layers
 - [Why and How to Model a Non-profit on the Lean Canvas](https://blog.leanstack.com/why-and-how-to-model-a-non-profit-on-the-lean-canvas-514e4acf1051) 
 
   > I often get asked if one can or should model a non-profit using a Lean Canvas. The answer is a resounding yes. A nonprofit is essentially a multisided model made up of users (beneficiaries) and customers (donors).
-- [Social science has a complicated, infinitely tricky replication crisis | Ar](https://arstechnica.com/science/2018/08/why-do-only-two-thirds-of-famous-social-science-results-replicate-its-complicated/) 
+- [Social science has a complicated, infinitely tricky replication crisis | Ars Technica](https://arstechnica.com/science/2018/08/why-do-only-two-thirds-of-famous-social-science-results-replicate-its-complicated/) 
 
   > For scientists, getting research published in the journal Nature is a huge deal. It carries weight, prestige, and the promise of career advancement—as do the pages of its competitor, Science. Both have a reputation for publishing innovative, exciting, and high-quality work with a broad appeal.
-- [There’s a debate raging in science about what should count as “significant”](https://arstechnica.com/science/2017/08/theres-a-debate-raging-in-science-about-what-should-count-as-significant/) 
+- [There’s a debate raging in science about what should count as “significant” | Ars Technica](https://arstechnica.com/science/2017/08/theres-a-debate-raging-in-science-about-what-should-count-as-significant/) 
 
   > Psychology and many related fields are in the midst of what can be viewed as a coming-of-age crisis. Following a stream of depressing revelations about a lack of reliability in the field, lots of researchers are dedicating themselves to improving the discipline’s rigor.
 - [The Myth of Whiteness in Classical Sculpture | The New Yorker](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture) 
@@ -37,9 +37,9 @@
 - [The Tyranny of Stuctureless](https://www.jofreeman.com/joreen/tyranny.htm) 
 
   > The earliest version of this article was given as a talk at a conference called by the Southern Female Rights Union, held in Beulah, Mississippi in May 1970. It was written up for Notes from the Third Year (1971), but the editors did not use it.
-- [The demise of the nation state | News | The Guardian](https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta) 
+- [The demise of the nation state | The Guardian](https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta) 
 
-  > After decades of globalisation, our political system has become obsolete – and spasms of resurgent nationalism are a sign of its irreversible decline. By
+  > After decades of globalisation, our political system has become obsolete – and spasms of resurgent nationalism are a sign of its irreversible decline.
 - [Why Chinese Speakers Cut Their Hair Before New Year’s](http://nautil.us/issue/44/luck/is-the-chinese-language-a-superstition-machine) 
 
   > Every year, more than a billion people around the world celebrate Chinese New Year and engage in a subtle linguistic dance with luck. You can think of it as a set of holiday rituals that resemble a courtship.
