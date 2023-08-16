@@ -160,6 +160,7 @@
 
   > The earliest version of this article was given as a talk at a conference called by the Southern Female Rights Union, held in Beulah, Mississippi in May 1970.
 
+- [The Epistemology of Truth](https://linotype.substack.com/p/the-epistemology-of-truth) – by a developer that worked on the [Google Knowledge Graph](https://www.newyorker.com/culture/culture-desk/the-web-gets-smarter)
 
 ### Hands-on
 
