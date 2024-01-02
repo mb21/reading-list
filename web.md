@@ -6,12 +6,14 @@
 - [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) and [VSCode editor](https://code.visualstudio.com/) 
 - CSS
   - [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
-  - CSS naming: use something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/), or [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+  - CSS scope naming: use [CSS Modules](https://css-tricks.com/css-modules-part-1-need/). Or if you can't, do the same thing manually with something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/).
+  - CSS token naming: [What are Design Tokens? video](https://www.youtube.com/watch?v=wtTstdiBuUk)
   - [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - [Resilient Web Design](https://resilientwebdesign.com): about the medium web.
 - JavaScript
     - interactive: [programming intro at Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
     - book: [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Building a Modern Website? SSG vs. SSR, SPA vs. MPA, Svelte vs. Solid](https://mb21.github.io/blog/2023/09/18/building-a-modern-website-ssg-vs-ssr-spa-vs-mpa-svelte-vs-solid.html)
 
 ### More articles
 
@@ -38,14 +40,12 @@
 - TypeScript
   - [Error handling](https://blog.logrocket.com/pattern-matching-and-type-safety-in-typescript-1da1231a2e34/)
   - [Take control of unexpected data at runtime with TypeScript](https://blog.logrocket.com/using-typescript-to-stop-unexpected-data-from-breaking-your-app/)
-- React
-  - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
 
 
 ### Static Site Generation
 
 - [GitHub Pages](https://pages.github.com) – great to create your first static website
-- for more advanced static web sites I would use [Netlify](https://www.netlify.com) and [Middleman](https://middlemanapp.com)
+- for more advanced static web sites I would use [Netlify](https://www.netlify.com) and either [Astro](https://astro.build/) or [Middleman](https://middlemanapp.com)
 
 ### Specific Techniques
 
