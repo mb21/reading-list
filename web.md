@@ -6,9 +6,11 @@
 - [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) and [VSCode editor](https://code.visualstudio.com/) 
 - CSS
   - [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
-  - CSS scope naming: use [CSS Modules](https://css-tricks.com/css-modules-part-1-need/). Or if you can't, do the same thing manually with something like [rscss](http://rscss.io) or [BEM](http://getbem.com/naming/).
-  - CSS token naming: [What are Design Tokens? video](https://www.youtube.com/watch?v=wtTstdiBuUk)
   - [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+  - CSS techniques:
+    - CSS token naming: [What are Design Tokens? video](https://www.youtube.com/watch?v=wtTstdiBuUk)
+    - Start by styling the basic html elements you need, like headings, links, buttons, forms: read [CSS Inheritance, The Cascade And Global Scope](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) for a convincing argument.
+    - Once your website grows to have reusable components that consist of multiple HTML elements, consider scoping your CSS to affect only that component: use [CSS Modules](https://css-tricks.com/css-modules-part-1-need/). Or if you can't, do the same thing manually with something like [rscss](https://ricostacruz.com/rscss/) or [BEM](http://getbem.com/naming/).
 - [Resilient Web Design](https://resilientwebdesign.com): about the medium web.
 - JavaScript
     - interactive: [programming intro at Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
@@ -53,10 +55,7 @@
 - [CSS-in-JS](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 - Grid (for two-dimensional layouts)
     - [Grid Intro](https://alistapart.com/article/the-new-css-layout-excerpt)
-    - [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
-    - [Grid bugs](https://github.com/rachelandrew/gridbugs)
 - Flexbox (for one-dimensional stuff)
-    - [IE 11 bugs](https://github.com/philipwalton/flexbugs)
     - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
     - [simple Flexbox algorithm explanation](http://madebymike.com.au/writing/understanding-flexbox/)
     - [Playground](http://codepen.io/justd/pen/yydezN)
@@ -64,15 +63,11 @@
 - [Google Search Console](https://www.google.com/webmasters/tools/)
 - [Test Android, etc.](https://developers.google.com/web/tools/chrome-devtools/device-mode/testing-other-browsers)
     - [Ghost Lab, Remote Preview etc.](https://www.html5rocks.com/en/tutorials/tooling/synchronized-cross-device-testing/)
-    - [Chrome USB devices](chrome://inspect/#devices)
-    - `~/Library/Android/sdk/tools/android avd`, `~/Library/Android/sdk/tools/emulator -netdelay none -netspeed full -avd Nexus_5X_API_24_x86`
-- [Android Emulators for macOS (they all suck)](http://techapple.net/2014/05/3-best-android-emulators-for-mac-os-macbook-run-and-install-android-app-on-your-mac-os-x-macbook-airpro/)
 - <https://www.browserstack.com>
 - [WebDevChecklist](http://webdevchecklist.com/)
 
 #### Animation / Graphics
 
-- [Sketch](https://www.sketchapp.com)
 - [D3.js](https://d3js.org) and [his blog](https://bost.ocks.org/mike/)
 - SVGs
     - [scaling SVGs](https://css-tricks.com/scale-svg/)
