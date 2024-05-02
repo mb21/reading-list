@@ -3,8 +3,8 @@
 - [Webdesign Intro videos](http://www.dontfeartheinternet.com) (watch from bottom to top)
 - tools: [MDN](https://developer.mozilla.org), [CSS-Tricks](https://css-tricks.com
 ), [canIuse.com](http://caniuse.com)
-- [browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) and [VSCode editor](https://code.visualstudio.com/) 
-- CSS
+- [Browser dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) and [VSCode editor](https://code.visualstudio.com/)
+- Start with writing your HTML. Only then add CSS:
   - [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
   - [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
   - How to structure your CSS:
