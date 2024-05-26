@@ -40,7 +40,9 @@
 - Accessibility
   - [Accessibility](http://a11yproject.com)
   - [Test accessibility with Voice Over](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-voiceover-os.html)
-- [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
+- Emails:
+  - [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
+  - [CanIEmail.com](https://www.caniemail.com/)
 - [iA blog](https://ia.net/know-how), e.g. [Multichannel Text Processing](https://ia.net/know-how/multichannel-text-processing)
 - Websites:
     - [motherfuckingwebsite.com](http://motherfuckingwebsite.com/)
