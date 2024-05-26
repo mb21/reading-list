@@ -53,14 +53,19 @@
 
 ### Specific Techniques
 
-- [Responsive Images](http://alistapart.com/article/using-responsive-images-now)
-- [CSS-in-JS](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
+- New native CSS features:
+    - [CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting) instead of SASS (in modern browsers incl. Safari >= 17.2).
+    - [@scope rule](https://developer.mozilla.org/en-US/docs/Web/CSS/@scope) instead of CSS Modules (in Chrome, Safari >= 17.4, [to be implemented in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=%40scope)).
+    - [Container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries): like media query but asks a container element's size (in modern browsers incl. Safari >= 16).
+    - [:has() pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/:has) is a parent element selector (in modern browsers incl. Safari >= 15.4).
+    - [relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Relative_colors) (in modern browsers incl. Safari >= 17.6)
 - Grid (for two-dimensional layouts)
     - [Grid Intro](https://alistapart.com/article/the-new-css-layout-excerpt)
 - Flexbox (for one-dimensional stuff)
-    - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     - [simple Flexbox algorithm explanation](http://madebymike.com.au/writing/understanding-flexbox/)
     - [Playground](http://codepen.io/justd/pen/yydezN)
+- [Responsive Images](http://alistapart.com/article/using-responsive-images-now)
 - [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Google Search Console](https://www.google.com/webmasters/tools/)
 - [Test Android, etc.](https://developers.google.com/web/tools/chrome-devtools/device-mode/testing-other-browsers)
