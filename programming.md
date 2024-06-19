@@ -22,6 +22,7 @@
 - [Event Sourcing is Hard](https://chriskiehl.com/article/event-sourcing-is-hard)
 - [Are we really engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
+- [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
 
 ### Videos
 
