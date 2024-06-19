@@ -4,6 +4,5 @@
 
 - [Web Development](web.md)
 - [Programming](programming.md)
-- [Haskell](haskell.md)
 - [Startups](startups.md)
 - [General articles](articles.md)
