@@ -8,7 +8,7 @@
   - [Layout Land videos](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) by Jen Simmons
   - [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
   - How to structure your CSS:
-    1. Define some design tokens (like colors and font) as [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties): [What are Design Tokens? video](https://www.youtube.com/watch?v=wtTstdiBuUk)
+    1. Define some design tokens (like colors and font) as [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) (and use [color-mix](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix)): [What are Design Tokens? video](https://www.youtube.com/watch?v=wtTstdiBuUk)
     2. Style the basic html elements you need, like headings, links, buttons, forms, main, header and footer: read [CSS Inheritance, The Cascade And Global Scope](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) for a convincing argument for this basic global CSS.
     3. Once your website grows to have reusable components that consist of multiple HTML elements, consider scoping your CSS to affect only that component: use [CSS Modules](https://css-tricks.com/css-modules-part-1-need/). Or if you can't, do the same thing manually with something like [rscss](https://ricostacruz.com/rscss/) or [BEM](http://getbem.com/naming/).
 - [Resilient Web Design](https://resilientwebdesign.com): about the medium web.
