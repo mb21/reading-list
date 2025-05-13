@@ -61,6 +61,16 @@
     - [Container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries): like media query but asks a container element's size (in modern browsers incl. Safari >= 16).
     - [:has() pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/:has) is a parent element selector (in modern browsers incl. Safari >= 15.4).
     - [relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Relative_colors) (in modern browsers incl. Safari >= 17.6)
+
+- CSS Typography
+    - [hyphens: auto](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+    - for words that are too long to fit: either [word-break: break-word](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break) (which will break the word right there) or [overflow-wrap: break-word](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap) (which will put the word on its own line if it fits there)
+    - [`lh` unit](https://webkit.org/blog/16831/line-height-units/)
+    - [text-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap) (see also [webkit blog](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/))
+    - Safari-only:
+      - [hanging-punctuation](https://developer.mozilla.org/en-US/docs/Web/CSS/hanging-punctuation)
+      - [margin-trim](https://webkit.org/blog/16854/margin-trim/)
+  
 - Grid (for two-dimensional layouts)
     - [Grid Intro](https://alistapart.com/article/the-new-css-layout-excerpt)
 - Flexbox (for one-dimensional stuff)
