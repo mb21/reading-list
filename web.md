@@ -78,13 +78,13 @@
     - [simple Flexbox algorithm explanation](http://madebymike.com.au/writing/understanding-flexbox/)
     - [Playground](http://codepen.io/justd/pen/yydezN)
 - [Responsive Images](http://alistapart.com/article/using-responsive-images-now)
-- [The Performance Inequality Gap](https://infrequently.org/series/performance-inequality/)
-- [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [Google Search Console](https://www.google.com/webmasters/tools/)
-- [Test Android, etc.](https://developers.google.com/web/tools/chrome-devtools/device-mode/testing-other-browsers)
-    - [Ghost Lab, Remote Preview etc.](https://www.html5rocks.com/en/tutorials/tooling/synchronized-cross-device-testing/)
-- <https://www.browserstack.com>
-- [WebDevChecklist](http://webdevchecklist.com/)
+- Performance and testing
+    - [The Performance Inequality Gap](https://infrequently.org/series/performance-inequality/)
+    - [WebPageTest](https://www.webpagetest.org)
+    - [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+    - [Google Search Console](https://www.google.com/webmasters/tools/)
+    - [Test Android, etc.](https://developers.google.com/web/tools/chrome-devtools/device-mode/testing-other-browsers)
+        - [Ghost Lab, Remote Preview etc.](https://www.html5rocks.com/en/tutorials/tooling/synchronized-cross-device-testing/)
 
 #### Animation / Graphics
 
