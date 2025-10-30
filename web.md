@@ -1,5 +1,6 @@
 ## Web development intro
 
+- [The Mastro Guide](https://mastrojs.github.io/guide/)
 - [Webdesign Intro videos](http://www.dontfeartheinternet.com) (watch from bottom to top)
 - tools: [MDN](https://developer.mozilla.org), [CSS-Tricks](https://css-tricks.com
 ), [canIuse.com](http://caniuse.com)
@@ -18,12 +19,6 @@
 - [Building a Modern Website? SSG vs. SSR, SPA vs. MPA, Svelte vs. Solid](https://mb21.github.io/blog/2023/09/18/building-a-modern-website-ssg-vs-ssr-spa-vs-mpa-svelte-vs-solid.html)
 
 
-### Static Site Generation
-
-- [GitHub Pages](https://pages.github.com) – great to create your first static website
-- for more advanced static web sites I would use either [Astro](https://astro.build/) or [Middleman](https://middlemanapp.com), and deploy to [Netlify](https://www.netlify.com).
-
-
 ### More articles
 
 - A List Apart
@@ -33,10 +28,6 @@
   - [Surveying the Big Screen](http://alistapart.com/article/surveying-the-big-screen)
   - [canvas in vs content out](http://alistapart.com/article/frameworks)
   - [The Pain With No Name – Information Architecture](http://alistapart.com/article/pain-with-no-name)
-- GUI/UX
-  - [Bret Victor](http://worrydream.com)
-  - [Why You Should Avoid Using the Hamburger Menu](http://jamesarcher.me/the-hamburger-menu/)
-  - [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570)
 - Accessibility
   - [Accessibility](http://a11yproject.com)
   - [Test accessibility with Voice Over](https://bbc-news.github.io/accessibility-news-and-you/accessibility-and-testing-with-voiceover-os.html)
@@ -83,6 +74,7 @@
     - [WebPageTest](https://www.webpagetest.org)
     - [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
     - [Google Search Console](https://www.google.com/webmasters/tools/)
+    - [Tight Mode](https://www.smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/)
     - [Test Android, etc.](https://developers.google.com/web/tools/chrome-devtools/device-mode/testing-other-browsers)
         - [Ghost Lab, Remote Preview etc.](https://www.html5rocks.com/en/tutorials/tooling/synchronized-cross-device-testing/)
 
